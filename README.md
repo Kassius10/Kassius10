@@ -25,7 +25,7 @@ La programación me gusta, el diseño de páginas web y aplicaciones también, p
 
 ---
 
-####👾👾 Mis Hobbies 👾👾
+#### 👾👾 Mis Hobbies 👾👾
 
 Obviamente me gustan los juegos y jugarlos tanto en 💻 PC o 🎮 Play. Me encanta escuchar música, es una de mis pasiones, siempre que puedo estoy descubriendo música nueva y disfrutando de todo tipo de estilos. 🎶🎵🎶
 También me gusta leer, ver pelis y series, salir con mis amigos, mi familia y mi pareja. 
