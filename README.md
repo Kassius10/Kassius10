@@ -38,8 +38,7 @@ Todo el mundo necesita su momento y es en esos momentos donde tu mente asciende 
 
 Por ahora no tengo mucho en mis repositorios, pero poco a poco ire trabajando más y subiendo más contenido. 
 Seguramente se podrán mejorar, pero esto a penas es el comienzo de una gran historia, donde tú podrás enseñarme y yo podre aprender de tí.
-
-**🚀 Lenguajes:**
+<h4 align="center"> <b>🚀 Lenguajes</b></h4>
 <p align="center">
 <img alt="HTML5" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -48,6 +47,9 @@ Seguramente se podrán mejorar, pero esto a penas es el comienzo de una gran his
 <img alt="TYPESCRIPT" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt="MYSQL" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </p>
+
+####_SIGUEME AQUI_ 👇👇
+
 
 ![insta](https://img.shields.io/twitter/url?label=Kassius_10&logo=instagram&logoColor=blue&url=https%3A%2F%2Fwww.instagram.com%2Fkassius_10%2F)
 
